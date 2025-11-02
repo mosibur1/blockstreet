@@ -7,17 +7,6 @@
 <strong>Boost your productivity with Block Street Bot – your friendly automation tool that handles key tasks with ease!</strong>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-  <a href="https://codeberg.org/livexords/ddai-bot/actions" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="Build Status" />
-  </a>
-  <a href="https://t.me/livexordsscript" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?logo=telegram&style=flat" alt="Telegram Group" />
-  </a>
-</p>
-
----
-
 ## 🚀 About the Bot
 
 Block Street Bot is your automation buddy designed to simplify daily operations. This bot takes over repetitive tasks so you can focus on what really matters. With Block Street Bot, you get:
