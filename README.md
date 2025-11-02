@@ -44,22 +44,6 @@ Block Street Bot is built with flexibility and efficiency in mind – it's here 
 
 **Current Version: v1.0.3**
 
-### v1.0.3 - Latest Update
-
-- Fix login 
-- woi dev block street jangan pantau repo ini atau group komunitas lah bairkan kami nge bot denngan tenang
-
----
-
-## 📝 Register
-
-Before you start using Block Street-bot Bot, make sure to register your account.  
-Click the link below to get started:
-
-[🔗 Register for Block Street Bot](https://blockstreet.money/dashboard?invite_code=F5RHJ6)
-
----
-
 ## ⚙️ Configuration
 
 ### Main Bot Configuration (`config.json`)
@@ -115,13 +99,13 @@ pip install -r requirements.txt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://codeberg.org/LIVEXORDS/blockstreet-bot.git
+   git clone https://github.com/mosibur1/blockstreet.git
    ```
 
 2. **Navigate to the Project Folder**
 
    ```bash
-   cd blockstreet-bot
+   cd blockstreet
    ```
 
 3. **Install Dependencies**
@@ -150,16 +134,6 @@ pip install -r requirements.txt
    ```
 
 ---
-
-### 🔹 Need Free Proxies for Farming or Testnets?
-
-Get **1GB/month free proxies** from [Webshare.io](https://www.webshare.io/?referral_code=k8udyiwp88n0) — no credit card, no KYC.
-Perfect for bots, farming, automation, and multi-account setups.
-
-> _We personally use this for development and multi-account setups – reliable and simple._
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -186,7 +160,7 @@ For contribution guidelines, please consider:
 - **Feature Requests & Bugs:** Report and discuss via our Telegram group.
 
 <div align="center">
-  <a href="https://t.me/livexordsscript" target="_blank">
+  <a href="https://t.me/mrptechofficial" target="_blank">
     <img src="https://img.shields.io/badge/Join-Telegram%20Group-2CA5E0?logo=telegram&style=for-the-badge" height="25" alt="Telegram Group" />
   </a>
 </div>
