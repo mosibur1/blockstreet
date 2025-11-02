@@ -1,0 +1,9 @@
+brotli
+chardet
+colorama
+eth_account
+fake_useragent
+psutil
+pycryptodome
+requests
+urllib3
