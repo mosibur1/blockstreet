@@ -197,8 +197,8 @@ class blockstreet:
         self.log("=======================================", Fore.CYAN)
         self.log(f"           🎉  {NAME_BOT} BOT 🎉             ", Fore.CYAN)
         self.log("=======================================", Fore.CYAN)
-        self.log("🚀  by LIVEXORDS", Fore.CYAN)
-        self.log("📢  t.me/livexordsscript", Fore.CYAN)
+        self.log("🚀  by MRPTECH", Fore.CYAN)
+        self.log("📢  t.me/mrptechofficial", Fore.CYAN)
         self.log("=======================================", Fore.CYAN)
         self.log("")
 
@@ -2368,7 +2368,7 @@ async def main():
     run_mode = "repeat"
     base_blu.config = effective
     base_blu.log(
-        f"🎉 [LIVEXORDS] === Welcome to {NAME_BOT} Automation === [LIVEXORDS]",
+        f"🎉 [MRPTECH] === Welcome to {NAME_BOT} Automation === [MRPTECH]",
         Fore.YELLOW,
     )
     cfg_summary = {
